@@ -1,12 +1,3 @@
-<h1>Hi there, I'm Stanisław 👋</h1>
-<h3>DevOps & QA Automation Engineer</h3>
-
-<p>
-  🎓 Finishing my engineering degree and actively building scalable IT solutions. <br>
-  🖥️ Homelab enthusiast focused on CyberSec, network architecture, and automation.
-</p>
-
-
 
 **Tech Stack:**<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -17,7 +8,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
