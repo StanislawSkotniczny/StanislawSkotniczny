@@ -1,4 +1,4 @@
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=whoami:+stanislaw.skotniczny;location:+krakow,+poland;role:+devops+|+qa+|+ai;greeting:+Hi+there,+I'm+Stanisław!👋&font=Fira%20Code&center=true&width=500&height=50&theme=tokyonight&color=80bfff&vCenter=true" alt="Dynamic Typing Animation" />
 **Tech Stack:**<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
